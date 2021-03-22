@@ -983,4 +983,3 @@ lldp_destroy_dummy(struct lldp *lldp)
     free(lldp->lldpd);
     free(lldp);
 }
-
